@@ -1,6 +1,6 @@
 {
   "name": "error-haiku",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A stress-relieving error handler that prints a calming Haiku before your Node.js app crashes.",
   "main": "index.js",
   "scripts": {
